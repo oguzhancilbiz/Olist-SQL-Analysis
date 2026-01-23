@@ -13,7 +13,6 @@ Bu repo, eğitim ve kişisel projelerim kapsamında yaptığım veri analizi ve 
   - `presentation/` → Analiz sunumları ve görseller
 - **Teknolojiler:** BigQuery, SQL, Excel
 
-- [Olist SQL Analysis](Olist-SQL-Analysis\sql\olist_analysis.sql)
 
 ## İletişim
 - GitHub: [https://github.com/oguzhancilbiz](https://github.com/oguzhancilbiz)
