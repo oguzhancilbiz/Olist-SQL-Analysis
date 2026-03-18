@@ -1,8 +1,6 @@
-# data-analytics
+# Olist SQL Analysis
 
-Bu repo, eğitim ve kişisel projelerim kapsamında yaptığım veri analizi ve SQL çalışmaları ile ilgili örnekleri içerir. Her proje kendi klasöründe düzenlenmiştir.
-
----
+Bu repo, eğitim ve kişisel projelerim kapsamında yaptığım veri analizi ve SQL çalışmaları ile ilgili örnekleri içerir.
 
 ## Projeler
 
